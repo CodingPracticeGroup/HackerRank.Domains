@@ -1,4 +1,4 @@
-HackerRank.Domains
+HackerRank
 ==================
 
 Competitive programming challenges and contests.
